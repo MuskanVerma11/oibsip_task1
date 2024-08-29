@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+
+    <string-array name="length_from">
+        <item>Millimetre</item>
+        <item>Centimetre</item>
+        <item>Metre</item>
+        <item>Kilometre</item>
+        <item>Mile</item>
+        <item>Feet</item>
+        <item>Inch</item>
+    </string-array>
+
+    <string-array name="mass_from">
+        <item>Milligram</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Pound</item>
+    </string-array>
+
+    <string-array name="volume_from">
+        <item>Millilitre</item>
+        <item>Litre</item>
+        <item>Gallon</item>
+        <item>Quarts</item>
+    </string-array>
+
+    <string-array name="temp_from">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="speed_from">
+        <item>km/h</item>
+        <item>m/s</item>
+    </string-array>
+
+    <string-array name="time_from">
+        <item>Second</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+    </string-array>
+
+    <string-array name="energy_from">
+        <item>Joule</item>
+        <item>Calories</item>
+        <item>Kilowatt-hours</item>
+    </string-array>
+
+    <string-array name="ds_from">
+        <item>Bit</item>
+        <item>Byte</item>
+        <item>Kilobyte</item>
+        <item>Megabyte</item>
+        <item>Gigabyte</item>
+        <item>Terabyte</item>
+    </string-array>
+
+    <string-array name="angle_from">
+        <item>Degree</item>
+        <item>Radian</item>
+    </string-array>
+
+</resources>

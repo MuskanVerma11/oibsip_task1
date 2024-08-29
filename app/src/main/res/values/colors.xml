@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="buttonBackgroundColor">#000000</color>
+    <color name="button_default_color">#FFFFFF</color> <!-- Default background color -->
+    <color name="button_pressed_color">#FFEB3B</color> <!-- Pressed background color -->
+    <color name="button_default_border_color">#000000</color> <!-- Default border color -->
+    <color name="button_pressed_border_color">#FF9800</color> <!-- Pressed border color -->
+    <color name="button_text_color">#000000</color>
+    <color name="primaryAppColor">#0F7EC8</color>
+</resources>
